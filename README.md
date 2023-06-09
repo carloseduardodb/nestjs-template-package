@@ -65,7 +65,7 @@ This template is distributed under the MIT license. Refer to the LICENSE file fo
 
 # Contact
 
-If you have any questions or suggestions related to this template, please contact your-email@example.com.
+If you have any questions or suggestions related to this template, please contact carloseduardodiasbatista@gmail.com.
 
 <br />
 
